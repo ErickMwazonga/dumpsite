@@ -17,6 +17,13 @@
    2. jc - https://terminaltrove.com/jc/
    3. fx - https://fx.wtf/
 4. Bat - https://github.com/sharkdp/bat
+
+### Browser Extensions
+1. GoFullPage - https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en
+2. Adblock Plus - https://chromewebstore.google.com/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb
+3. One Tab
+4. Wappalyzer
+5. Tampermonkey
   
 ## References
 1. https://amanhimself.dev/blog/macbook-setup-2024/
